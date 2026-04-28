@@ -1,9 +1,10 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "releaseDate": "2026-04-28",
-  "downloadUrl": "https://github.com/fromarx/sellfly-studio-releases/releases/download/v1.0.0/SellflyLiveStudio-Setup-1.0.0.exe",
+  "downloadUrl": "https://github.com/fromarx/sellfly-studio-releases/releases/download/v1.0.1/SellflyLiveStudio-Setup-1.0.1.exe",
   "changelog": [
-    "Pierwsza wersja stabilna"
+    "Naprawa zapisu scen",
+    "Poprawki wizualne interfejsu"
   ],
   "mandatory": false
 }
