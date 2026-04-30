@@ -5,12 +5,12 @@
   "changelog": [
     "Naprawa zapisu scen",
     "Poprawki wizualne interfejsu"
-    "Naprawa Czasu Lokalnego:
-    W historii transmisji (Dashboard) dodano konwersję .ToLocalTime().
-    Dzięki temu sesje z serwera (zapisane w UTC) wyświetlają się w aplikacji zgodnie z Twoją lokalną godziną.
-    📷 Stabilizacja Silnika Wideo (OpenCvSharp4):
-    Dodano brakującą paczkę rozszerzeń OpenCvSharp4.Extensions do projektu (naprawia to błąd budowania, który wystąpił przy pierwszej próbie).
-    Teraz obsługa kamery jest w pełni zintegrowana z instalatorem."
+    "Naprawa Czasu Lokalnego:"
+    "W historii transmisji (Dashboard) dodano konwersję .ToLocalTime()."
+    "Dzięki temu sesje z serwera (zapisane w UTC) wyświetlają się w aplikacji zgodnie z Twoją lokalną godziną."
+    "📷 Stabilizacja Silnika Wideo (OpenCvSharp4):"
+    "Dodano brakującą paczkę rozszerzeń OpenCvSharp4.Extensions do projektu (naprawia to błąd budowania, który wystąpił przy pierwszej próbie)."
+    "Teraz obsługa kamery jest w pełni zintegrowana z instalatorem."
   ],
   "mandatory": false
 }
