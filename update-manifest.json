@@ -1,11 +1,16 @@
 {
-  "version": "1.0.2",
-  "releaseDate": "2026-04-29",
-  "downloadUrl": "https://github.com/fromarx/sellfly-studio-releases/releases/download/v1.0.1/SellflyLiveStudio-Setup-1.0.2.exe",
+  "version": "1.0.3",
+  "releaseDate": "2026-04-30",
+  "downloadUrl": "https://github.com/fromarx/sellfly-studio-releases/releases/download/v1.0.3/SellflyLiveStudio-Setup-1.0.3.exe",
   "changelog": [
     "Naprawa zapisu scen",
     "Poprawki wizualne interfejsu"
-    "Poprawki obsługi komenatrzy"
+    "Naprawa Czasu Lokalnego:
+    W historii transmisji (Dashboard) dodano konwersję .ToLocalTime().
+    Dzięki temu sesje z serwera (zapisane w UTC) wyświetlają się w aplikacji zgodnie z Twoją lokalną godziną.
+    📷 Stabilizacja Silnika Wideo (OpenCvSharp4):
+    Dodano brakującą paczkę rozszerzeń OpenCvSharp4.Extensions do projektu (naprawia to błąd budowania, który wystąpił przy pierwszej próbie).
+    Teraz obsługa kamery jest w pełni zintegrowana z instalatorem."
   ],
   "mandatory": false
 }
