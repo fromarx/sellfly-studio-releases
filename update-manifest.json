@@ -1,13 +1,13 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "releaseDate": "2026-04-30",
-  "downloadUrl": "https://github.com/fromarx/sellfly-studio-releases/releases/download/v1.0.3/SellflyLiveStudio-Setup-1.0.3.exe",
+  "downloadUrl": "https://github.com/fromarx/sellfly-studio-releases/releases/download/v1.0.4/SellflyLiveStudio-Setup-1.0.4.exe",
   "changelog": [
-    "✅ Naprawa Czasu Lokalnego: Dashboard wyświetla teraz poprawne godziny (ToLocalTime)",
-    "📷 Kamera: Pełna stabilizacja silnika OpenCvSharp4 (dodano Extensions)",
-    "📧 Kontakt: Zmiana e-maila na kontakt@sellfly.pl",
-    "✨ UI: Oczyszczenie przycisku Start Transmisja",
-    "📦 Instalator: Nowa wersja 1.0.3 z .NET 10"
+    "🎥 NOWOŚĆ: Podgląd kamery na żywo w konfiguratorze",
+    "🔍 Poprawione wykrywanie nazw kamer (koniec z Kamera 0, 1, 2)",
+    "🔧 Naprawa błędu aktualizacji (blokada pliku instalatora)",
+    "✨ Inteligentne dopasowanie kamery do motywów",
+    "📦 Stabilizacja silnika wideo"
   ],
   "mandatory": false
 }
